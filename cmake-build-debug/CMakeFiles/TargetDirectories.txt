@@ -1,0 +1,3 @@
+C:/Users/dynia/CLionProjects/projektpo/cmake-build-debug/CMakeFiles/projektpo.dir
+C:/Users/dynia/CLionProjects/projektpo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dynia/CLionProjects/projektpo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

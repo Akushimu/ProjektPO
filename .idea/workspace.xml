@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="projektpo" targetName="projektpo" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d619593-ea75-4353-b04f-c6f166e057ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="432" />
+    <option name="y" value="19" />
+    <option name="width" value="1398" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectId" id="1Vtly4LPZg7NPOwdOSBvLXvNtS6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="projektpo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="projektpo" TARGET_NAME="projektpo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="projektpo" RUN_TARGET_NAME="projektpo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d619593-ea75-4353-b04f-c6f166e057ac" name="Default Changelist" comment="" />
+      <created>1558180267446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558180267446</updated>
+      <workItem from="1558180269018" duration="4137000" />
+      <workItem from="1558380611332" duration="1231000" />
+      <workItem from="1559147387797" duration="6443000" />
+      <workItem from="1559246643318" duration="3017000" />
+      <workItem from="1559312839584" duration="8366000" />
+      <workItem from="1559328865103" duration="14038000" />
+      <workItem from="1559411351988" duration="2474000" />
+      <workItem from="1559414006617" duration="1065000" />
+      <workItem from="1559469500690" duration="982000" />
+      <workItem from="1559470748783" duration="3787000" />
+      <workItem from="1559479570079" duration="973000" />
+      <workItem from="1559486992686" duration="393000" />
+      <workItem from="1559487412099" duration="326000" />
+      <workItem from="1559487753475" duration="101000" />
+      <workItem from="1559497808119" duration="1232000" />
+      <workItem from="1559499053626" duration="6484000" />
+      <workItem from="1559505606745" duration="85000" />
+      <workItem from="1559559031778" duration="3025000" />
+      <workItem from="1559572184771" duration="136000" />
+      <workItem from="1559578660401" duration="22000" />
+      <workItem from="1560431730465" duration="9785000" />
+      <workItem from="1560632544758" duration="782000" />
+      <workItem from="1560692023689" duration="6992000" />
+      <workItem from="1560701832983" duration="1566000" />
+      <workItem from="1560707637145" duration="928000" />
+      <workItem from="1560709953385" duration="1803000" />
+      <workItem from="1560711841769" duration="331000" />
+      <workItem from="1560712224499" duration="36000" />
+      <workItem from="1560712380250" duration="34000" />
+      <workItem from="1560770602399" duration="10000" />
+      <workItem from="1560776244165" duration="548000" />
+      <workItem from="1560792989324" duration="3000" />
+      <workItem from="1560793213096" duration="637000" />
+      <workItem from="1578080526552" duration="105000" />
+      <workItem from="1600522437232" duration="737000" />
+      <workItem from="1601643270174" duration="33000" />
+      <workItem from="1601837934680" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="288" key="GridCell.Tab.0.bottom" timestamp="1601643301938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601643301938" />
+    <state width="1340" height="288" key="GridCell.Tab.0.center" timestamp="1601643301938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="288" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601643301938" />
+    <state width="1340" height="288" key="GridCell.Tab.0.left" timestamp="1601643301938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="288" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601643301938" />
+    <state width="1340" height="288" key="GridCell.Tab.0.right" timestamp="1601643301938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601643301938" />
+  </component>
+</project>
