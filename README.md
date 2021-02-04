@@ -1,2 +1,2 @@
 # ProjektPO
-Stara gierka w C++
+Projekt na zaliczenie C++
